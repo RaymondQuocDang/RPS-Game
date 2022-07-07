@@ -1,0 +1,61 @@
+body {
+    background-color: #90c9bf; ;
+}
+
+h1 {
+    color: #ffffff; 
+    font-family: 'Raleway',sans-serif; 
+    font-size: 62px; 
+    font-weight: 800; 
+    line-height: 72px; 
+    margin: 0 0 24px; 
+    text-align: center; 
+    text-transform: uppercase; 
+    margin-top: 25px;
+}
+
+img {
+    height: 300px;
+}
+
+img:hover {
+    cursor: pointer;
+}
+
+.rps-icon {
+    flex: 1;
+    width: 250px;
+    text-align: center;
+}
+
+#rps-div {
+    display: flex;
+    margin-top: 75px;
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#score-box {
+    margin-top: 75px;
+}
+
+#result-box {
+    margin-top: 50px;
+}
+
+.scores {
+    color: #ffffff; 
+    font-family: 'Raleway',sans-serif; 
+    font-size: 20px; 
+    font-weight: 800; 
+    text-align: center;
+}
+
+.result {
+    color: #ffffff; 
+    font-family: 'Raleway',sans-serif; 
+    font-size: 20px; 
+    font-weight: 800; 
+    text-align: center;
+}
